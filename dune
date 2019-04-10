@@ -1,0 +1,4 @@
+(executables
+	(names console)
+	(libraries lambda-term str)
+	)
